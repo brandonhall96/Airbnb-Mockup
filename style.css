@@ -78,7 +78,7 @@ color: #495057;
 }
 
 .box.a {
-  background-image: (img/san-francisco.jpg);
+  background-image: url(/img/san-francisco.jpg);
 
 }
 
