@@ -50,7 +50,7 @@ color: #495057;
   align-items: center;
   display: flex;
   justify-content: center;
-  background-image: (san-francisco.jpg);
+  background-image: url(/img/san-francisco.jpg);
   width: 300px;
   height: 300px;
 
@@ -78,7 +78,7 @@ color: #495057;
 }
 
 .box.a {
-  background-image: url(/img/san-francisco.jpg);
+  background-image: (san-francisco.jpg);
 
 }
 
